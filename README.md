@@ -1,7 +1,7 @@
-#Crazy-Circus
-#Crazy Circus
+# Crazy-Circus
+# Crazy Circus
 
-##Description
+## Description
 
 Crazy Circus est un jeu de réflexion stratégique implémenté en langage C. Le principe consiste à manipuler des animaux placés sur deux podiums (bleu et rouge) afin de transformer une configuration initiale en une configuration cible, en utilisant une suite limitée d’actions.
 
@@ -9,7 +9,7 @@ Chaque joueur doit proposer une séquence d’ordres permettant de résoudre l�
 
 ---
 
-##Principe du jeu
+## Principe du jeu
 
 Les animaux sont empilés sur deux podiums :
 
@@ -22,7 +22,7 @@ Les joueurs utilisent des commandes prédéfinies pour modifier l’état du jeu
 
 ---
 
-##Commandes disponibles
+## Commandes disponibles
 
 | Commande | Effet                                          |
 | -------- | ---------------------------------------------- |
@@ -34,7 +34,7 @@ Les joueurs utilisent des commandes prédéfinies pour modifier l’état du jeu
 
 ---
 
-##Objectifs du projet
+## Objectifs du projet
 
 Ce projet a pour but de :
 
@@ -46,7 +46,7 @@ Ce projet a pour but de :
 
 ---
 
-##Concepts utilisés
+## Concepts utilisés
 
 Ce projet permet de mettre en pratique :
 
@@ -58,7 +58,7 @@ Ce projet permet de mettre en pratique :
 
 ---
 
-##Fonctionnement général
+## Fonctionnement général
 
 1. Chargement de la configuration du jeu
 2. Initialisation des joueurs
