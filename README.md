@@ -1,4 +1,3 @@
-# Crazy-Circus
 # Crazy Circus
 
 ## Description
